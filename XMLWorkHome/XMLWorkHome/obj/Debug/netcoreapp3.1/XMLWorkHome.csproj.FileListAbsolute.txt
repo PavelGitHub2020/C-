@@ -1,0 +1,14 @@
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\bin\Debug\netcoreapp3.1\XMLWorkHome.exe
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\bin\Debug\netcoreapp3.1\XMLWorkHome.deps.json
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\bin\Debug\netcoreapp3.1\XMLWorkHome.runtimeconfig.json
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\bin\Debug\netcoreapp3.1\XMLWorkHome.runtimeconfig.dev.json
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\bin\Debug\netcoreapp3.1\XMLWorkHome.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\bin\Debug\netcoreapp3.1\XMLWorkHome.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\obj\Debug\netcoreapp3.1\XMLWorkHome.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\obj\Debug\netcoreapp3.1\XMLWorkHome.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\obj\Debug\netcoreapp3.1\XMLWorkHome.AssemblyInfo.cs
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\obj\Debug\netcoreapp3.1\XMLWorkHome.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\obj\Debug\netcoreapp3.1\XMLWorkHome.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\obj\Debug\netcoreapp3.1\XMLWorkHome.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\obj\Debug\netcoreapp3.1\XMLWorkHome.genruntimeconfig.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\XMLWorkHome\XMLWorkHome\bin\Debug\netcoreapp3.1\XMLWorkHome.xml

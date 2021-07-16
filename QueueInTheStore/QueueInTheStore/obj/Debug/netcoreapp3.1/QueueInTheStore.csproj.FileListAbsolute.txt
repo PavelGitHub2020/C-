@@ -1,0 +1,26 @@
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.exe
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.deps.json
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.runtimeconfig.json
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.runtimeconfig.dev.json
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.dll
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.pdb
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.AssemblyInfo.cs
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.dll
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.pdb
+B:\учебный проект\для примеров\C#Lessons\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.genruntimeconfig.cache
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.exe
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.deps.json
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.runtimeconfig.json
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.runtimeconfig.dev.json
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.dll
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\bin\Debug\netcoreapp3.1\QueueInTheStore.pdb
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.AssemblyInfo.cs
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.dll
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.pdb
+B:\учебный проект\для примеров\in GitHub\QueueInTheStore\QueueInTheStore\obj\Debug\netcoreapp3.1\QueueInTheStore.genruntimeconfig.cache

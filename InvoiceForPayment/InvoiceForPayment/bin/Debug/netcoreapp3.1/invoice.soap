@@ -1,0 +1,101 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[Invoice.InvoiceForPayment%2C%20Invoice%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-2" />
+      <_size>9</_size>
+      <_version>9</_version>
+    </a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-2" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:InvoiceForPayment[16]">
+      <item href="#ref-3" />
+      <item href="#ref-4" />
+      <item href="#ref-5" />
+      <item href="#ref-6" />
+      <item href="#ref-7" />
+      <item href="#ref-8" />
+      <item href="#ref-9" />
+      <item href="#ref-10" />
+      <item href="#ref-11" />
+    </SOAP-ENC:Array>
+    <a2:InvoiceForPayment id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <oneDayPenaltyForLatePayment>11.300000000000001</oneDayPenaltyForLatePayment>
+      <paymentPerDay>23</paymentPerDay>
+      <AmountOfDays>3</AmountOfDays>
+      <NumberOfDayOfPaymentDelay>1</NumberOfDayOfPaymentDelay>
+      <amountToBePaidWithoutPenalty>69</amountToBePaidWithoutPenalty>
+      <penalty>11.300000000000001</penalty>
+      <totalAmountPayalbe>80.299999999999997</totalAmountPayalbe>
+    </a2:InvoiceForPayment>
+    <a2:InvoiceForPayment id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <oneDayPenaltyForLatePayment>11.300000000000001</oneDayPenaltyForLatePayment>
+      <paymentPerDay>23</paymentPerDay>
+      <AmountOfDays>6</AmountOfDays>
+      <NumberOfDayOfPaymentDelay>2</NumberOfDayOfPaymentDelay>
+      <amountToBePaidWithoutPenalty>138</amountToBePaidWithoutPenalty>
+      <penalty>22.600000000000001</penalty>
+      <totalAmountPayalbe>160.59999999999999</totalAmountPayalbe>
+    </a2:InvoiceForPayment>
+    <a2:InvoiceForPayment id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <oneDayPenaltyForLatePayment>11.300000000000001</oneDayPenaltyForLatePayment>
+      <paymentPerDay>23</paymentPerDay>
+      <AmountOfDays>9</AmountOfDays>
+      <NumberOfDayOfPaymentDelay>3</NumberOfDayOfPaymentDelay>
+      <amountToBePaidWithoutPenalty>207</amountToBePaidWithoutPenalty>
+      <penalty>33.900000000000006</penalty>
+      <totalAmountPayalbe>240.90000000000001</totalAmountPayalbe>
+    </a2:InvoiceForPayment>
+    <a2:InvoiceForPayment id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <oneDayPenaltyForLatePayment>11.300000000000001</oneDayPenaltyForLatePayment>
+      <paymentPerDay>23</paymentPerDay>
+      <AmountOfDays>12</AmountOfDays>
+      <NumberOfDayOfPaymentDelay>4</NumberOfDayOfPaymentDelay>
+      <amountToBePaidWithoutPenalty>276</amountToBePaidWithoutPenalty>
+      <penalty>45.200000000000003</penalty>
+      <totalAmountPayalbe>321.19999999999999</totalAmountPayalbe>
+    </a2:InvoiceForPayment>
+    <a2:InvoiceForPayment id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <oneDayPenaltyForLatePayment>11.300000000000001</oneDayPenaltyForLatePayment>
+      <paymentPerDay>23</paymentPerDay>
+      <AmountOfDays>15</AmountOfDays>
+      <NumberOfDayOfPaymentDelay>5</NumberOfDayOfPaymentDelay>
+      <amountToBePaidWithoutPenalty>345</amountToBePaidWithoutPenalty>
+      <penalty>56.5</penalty>
+      <totalAmountPayalbe>401.5</totalAmountPayalbe>
+    </a2:InvoiceForPayment>
+    <a2:InvoiceForPayment id="ref-8" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <oneDayPenaltyForLatePayment>11.300000000000001</oneDayPenaltyForLatePayment>
+      <paymentPerDay>23</paymentPerDay>
+      <AmountOfDays>18</AmountOfDays>
+      <NumberOfDayOfPaymentDelay>6</NumberOfDayOfPaymentDelay>
+      <amountToBePaidWithoutPenalty>414</amountToBePaidWithoutPenalty>
+      <penalty>67.800000000000011</penalty>
+      <totalAmountPayalbe>481.80000000000001</totalAmountPayalbe>
+    </a2:InvoiceForPayment>
+    <a2:InvoiceForPayment id="ref-9" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <oneDayPenaltyForLatePayment>11.300000000000001</oneDayPenaltyForLatePayment>
+      <paymentPerDay>23</paymentPerDay>
+      <AmountOfDays>21</AmountOfDays>
+      <NumberOfDayOfPaymentDelay>7</NumberOfDayOfPaymentDelay>
+      <amountToBePaidWithoutPenalty>483</amountToBePaidWithoutPenalty>
+      <penalty>79.100000000000009</penalty>
+      <totalAmountPayalbe>562.10000000000002</totalAmountPayalbe>
+    </a2:InvoiceForPayment>
+    <a2:InvoiceForPayment id="ref-10" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <oneDayPenaltyForLatePayment>11.300000000000001</oneDayPenaltyForLatePayment>
+      <paymentPerDay>23</paymentPerDay>
+      <AmountOfDays>24</AmountOfDays>
+      <NumberOfDayOfPaymentDelay>8</NumberOfDayOfPaymentDelay>
+      <amountToBePaidWithoutPenalty>552</amountToBePaidWithoutPenalty>
+      <penalty>90.400000000000006</penalty>
+      <totalAmountPayalbe>642.39999999999998</totalAmountPayalbe>
+    </a2:InvoiceForPayment>
+    <a2:InvoiceForPayment id="ref-11" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/Invoice/Invoice%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <oneDayPenaltyForLatePayment>11.300000000000001</oneDayPenaltyForLatePayment>
+      <paymentPerDay>23</paymentPerDay>
+      <AmountOfDays>27</AmountOfDays>
+      <NumberOfDayOfPaymentDelay>9</NumberOfDayOfPaymentDelay>
+      <amountToBePaidWithoutPenalty>621</amountToBePaidWithoutPenalty>
+      <penalty>101.7</penalty>
+      <totalAmountPayalbe>722.70000000000005</totalAmountPayalbe>
+    </a2:InvoiceForPayment>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

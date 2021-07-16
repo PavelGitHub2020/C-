@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XMLWorkHome</name>
+    </assembly>
+    <members>
+        <member name="T:XMLWorkHome.Order">
+            <summary>
+            The <c>Order</c> class provides information about orders and goods,
+            also provides mothods for generating orders files, saving and reading 
+            information about orders
+            </summary>
+        </member>
+        <member name="F:XMLWorkHome.Order._nameOfGoods">
+            <summary>
+            Used to have array name of goods
+            </summary>
+        </member>
+        <member name="F:XMLWorkHome.Order._nameFile">
+            <summary>
+            <para name="_nameFile"></para>
+            Used to have the address file, where saving
+            information about orders
+            </summary>
+        </member>
+        <member name="M:XMLWorkHome.Order.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Constructor creating object of class Order 
+            </summary>
+            <param name="orderId"></param>
+            Used to indicate orders id
+            <param name="numberOfGoods"></param>
+            Used to indicate number of goods
+            <exception cref="T:System.ArgumentNullException">
+            If <paramref name="orderId"/> is negative.  
+            </exception>
+            <exception cref="T:System.ArgumentNullException">
+            If <paramref name="numberOfGoods"/> is negative.
+            </exception>
+        </member>
+        <member name="M:XMLWorkHome.Order.PrintOrder">
+            <summary>
+            The method <para name="PrintOrder()"></para>
+            which allows to show information about orders
+            </summary>
+        </member>
+        <member name="M:XMLWorkHome.Order.GeneratingOrdersFile">
+            <summary>
+            Method <para name="GeneratingOrdersFile()"></para>
+            used to create file for saving, reading 
+            information about orders
+            </summary>
+        </member>
+        <member name="M:XMLWorkHome.Order.SavingInformationAboutOrders">
+            <summary>
+            Method <para name="SavingInformationAboutOrders()"></para>
+            used to saving information about orders
+            </summary>
+        </member>
+        <member name="M:XMLWorkHome.Order.OutputNode(System.Xml.XmlNode)">
+            <summary>
+            Method <para name="OutputNode(XmlNode node)"></para>
+            Used to have information about all nodes
+            </summary>
+            <param name="node"></param>
+            The field by which all information is taken
+        </member>
+        <member name="M:XMLWorkHome.Order.ReadingInformationAboutOrders">
+            <summary>
+            Method <para name="ReadingInformationAboutOrders()"></para>
+            Usedd to reading information about orders
+            </summary>
+        </member>
+    </members>
+</doc>

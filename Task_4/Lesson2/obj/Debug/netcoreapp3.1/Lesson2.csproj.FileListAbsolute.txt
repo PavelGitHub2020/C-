@@ -1,0 +1,4 @@
+B:\учебный проект\для примеров\C#Lessons\Lesson1\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\C#Lessons\Lesson1\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\C#Lessons\Lesson1\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.AssemblyInfo.cs
+B:\учебный проект\для примеров\C#Lessons\Lesson1\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.csproj.CoreCompileInputs.cache

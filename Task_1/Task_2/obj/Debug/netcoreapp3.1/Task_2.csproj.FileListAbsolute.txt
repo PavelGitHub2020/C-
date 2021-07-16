@@ -1,0 +1,13 @@
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.exe
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.deps.json
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.runtimeconfig.json
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.runtimeconfig.dev.json
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.dll
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\bin\Debug\netcoreapp3.1\Task_2.pdb
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.AssemblyInfo.cs
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.dll
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.pdb
+B:\учебный проект\для примеров\C#Lessons\Task_2\Task_2\obj\Debug\netcoreapp3.1\Task_2.genruntimeconfig.cache
